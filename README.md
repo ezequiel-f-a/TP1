@@ -1,3 +1,3 @@
-# TP1
-Trabajo Práctico N°1
+# TPs LPPA
+Trabajos Prácticos
 .
